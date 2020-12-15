@@ -1,7 +1,7 @@
 
 # Title: Ians-React-Portfolio
 
-###### Desccription: I am learning react and made a portfolio.
+###### Desccription: I am learning react and will turn this into a portfolio.
 
 ## Developer: Ian N. Astesana
 
@@ -12,7 +12,8 @@
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 1. Installation: npm install
-   
+
+1. React app: npm start   
 
 1. Usage: A simple react template
 
